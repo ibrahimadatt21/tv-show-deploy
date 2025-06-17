@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/ibrahimadatt21/tv-show-deploy/static/css/main.5852d85c.css",
-    "main.js": "/ibrahimadatt21/tv-show-deploy/static/js/main.1f9361f8.js",
-    "index.html": "/ibrahimadatt21/tv-show-deploy/index.html",
-    "main.5852d85c.css.map": "/ibrahimadatt21/tv-show-deploy/static/css/main.5852d85c.css.map",
-    "main.1f9361f8.js.map": "/ibrahimadatt21/tv-show-deploy/static/js/main.1f9361f8.js.map"
+    "main.css": "/tv-show-deploy/static/css/main.5852d85c.css",
+    "main.js": "/tv-show-deploy/static/js/main.1f9361f8.js",
+    "index.html": "/tv-show-deploy/index.html",
+    "main.5852d85c.css.map": "/tv-show-deploy/static/css/main.5852d85c.css.map",
+    "main.1f9361f8.js.map": "/tv-show-deploy/static/js/main.1f9361f8.js.map"
   },
   "entrypoints": [
     "static/css/main.5852d85c.css",
